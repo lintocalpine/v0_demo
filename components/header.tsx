@@ -11,7 +11,7 @@ const navigation = [
   { name: "By Vehicle", href: "#" },
   { name: "Brands", href: "#" },
   { name: "Services", href: "#" },
-  { name: "About", href: "#" },
+  { name: "Employees", href: "/employees" },
 ]
 
 export function Header() {
